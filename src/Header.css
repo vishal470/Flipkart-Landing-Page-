@@ -1,0 +1,18 @@
+
+
+.header{
+    position: relative;
+    top:8px;
+    height: 120px;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    box-shadow: 0 1px 10px 0 rgb(0 0 0 / 16%);
+} 
+.header img{
+    
+    height: 80px;
+    width: 80px;
+}
